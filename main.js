@@ -36,7 +36,7 @@ const gameModes = ["bedwars_eight_two", "bedwars_four_four"];
 
 const randomGameMode = gameModes[Math.floor(Math.random() * gameModes.length)];
 const playcommand = `/play ${randomGameMode}`;
-webhook = config.version
+webhook = config.webhook
 
 const mcData = require('minecraft-data')(bot.version);
 
