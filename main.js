@@ -6,7 +6,7 @@ const readline = require('readline');
 const mineflayer = require('mineflayer');
 const { exec } = require('child_process');
 const { send } = require('process');
-targetign = "Mal_enDebF"
+
 
 const { performance } = require('perf_hooks');
 const { Vec3 } = require('vec3');
@@ -21,6 +21,8 @@ const bot = mineflayer.createBot({
     auth: `${config.auth}`,
     port: 25565
 });
+
+targetign = config.ign
 
 if (config.afk) {
     afker = "AFK MODE | ON"
