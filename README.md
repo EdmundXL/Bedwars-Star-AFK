@@ -1,4 +1,4 @@
-# Bedwars-Star-AFK
+# Bedwars AFK STAR GRINDER
 
 
 Mineflayer afk star grinding bot that you can either party, or make it afk on it's own  
@@ -9,3 +9,5 @@ It's a rather simple script you can host or run on your own just edit `config.js
 # list of commands
 - `!move` - makes the bot move backwards
 - `!drop` - makes the bot drop items | Example: `!drop iron `
+
+Thank you `fluyd`, for being useless and not helping me with anything besides being a nigger in vc.
