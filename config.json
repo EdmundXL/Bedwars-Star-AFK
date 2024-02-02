@@ -1,0 +1,9 @@
+{
+    "serverIP": "mc.hypixel.net",
+    "email": "Your Email",
+    "version": "1.8.9",
+    "auth": "microsoft",
+    "ign": "YOUR IGN",
+    "webhook": "Discord WEBHOOK URL HERE",
+    "afk": true
+}
